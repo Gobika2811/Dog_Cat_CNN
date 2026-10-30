@@ -40,3 +40,8 @@ ENV/
 # IDE settings
 .vscode/
 .idea/
+
+# Runtime outputs, generated plots, and checkpoints
+outputs/
+plots/
+models/
