@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset archives and downloads
+downloads/
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Raw dataset images (downloaded separately as per README)
+data/
+
+# Model weights and checkpoints (large binary files)
+*.keras
+*.h5
+*.pth
+*.pt
+*.onnx
+*.weights.h5
+
+# OS files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/

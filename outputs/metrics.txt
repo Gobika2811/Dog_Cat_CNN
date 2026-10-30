@@ -1,0 +1,15 @@
+DOG-CAT CNN EVALUATION RESULTS
+
+Accuracy: 0.7300 (73.00%)
+Precision: 0.7186
+Recall: 0.7560
+F1-score: 0.7368
+
+              precision    recall  f1-score   support
+
+        cats       0.74      0.70      0.72       500
+        dogs       0.72      0.76      0.74       500
+
+    accuracy                           0.73      1000
+   macro avg       0.73      0.73      0.73      1000
+weighted avg       0.73      0.73      0.73      1000
